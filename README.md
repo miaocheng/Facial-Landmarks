@@ -1,6 +1,6 @@
 # Facial-Landmarks
 
-This repository contains the setting files for detection of facial landmarks with OpenCV. The original sources are tested on the platform of visual studio 2017.
+This repository contains the setting files for detection trick of facial landmarks with OpenCV. The original sources are tested on the platform of visual studio 2017.
 
 The following steps are necessary:
 1. Unzip the OpenCV file to Disk directory, e.g., E:\TOOLS\, of which the needed components have been fully prepared for detection.
