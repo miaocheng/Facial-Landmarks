@@ -1,0 +1,14 @@
+﻿  facialLandmarkDetection.cpp
+e:\blue\vc-workspace\facemarklbp19\facemarklbp19\drawlandmarks.hpp(30): warning C4244: 'argument': conversion from 'const _Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+facialLandmarkDetection.obj : error LNK2001: unresolved external symbol "public: __cdecl cv::face::FacemarkLBF::Params::Params(void)" (??0Params@FacemarkLBF@face@cv@@QEAA@XZ)
+facialLandmarkDetection.obj : error LNK2001: unresolved external symbol "public: static struct cv::Ptr<class cv::face::FacemarkLBF> __cdecl cv::face::FacemarkLBF::create(struct cv::face::FacemarkLBF::Params const &)" (?create@FacemarkLBF@face@cv@@SA?AU?$Ptr@VFacemarkLBF@face@cv@@@3@AEBUParams@123@@Z)
+facialLandmarkDetection.obj : error LNK2001: unresolved external symbol "void __cdecl cv::face::drawFacemarks(class cv::_InputOutputArray const &,class cv::_InputArray const &,class cv::Scalar_<double>)" (?drawFacemarks@face@cv@@YAXAEBV_InputOutputArray@2@AEBV_InputArray@2@V?$Scalar_@N@2@@Z)
+E:\Blue\vc-workspace\FacemarkLBP19\x64\Release\FacemarkLBP19.exe : fatal error LNK1120: 3 unresolved externals
