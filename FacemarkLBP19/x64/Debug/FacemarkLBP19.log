@@ -1,0 +1,18 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  main.cpp
+e:\blue\vc-workspace\lip\extended-cohn-kanade-images\facemarklbp19_old\facemarklbp19\drawlandmarks.hpp(33): warning C4244: “参数”: 从“const _Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+e:\blue\vc-workspace\lip\extended-cohn-kanade-images\facemarklbp19_old\facemarklbp19\main.cpp(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(213): note: 参见“fopen”的声明
+e:\blue\vc-workspace\lip\extended-cohn-kanade-images\facemarklbp19_old\facemarklbp19\main.cpp(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(213): note: 参见“fopen”的声明
+e:\blue\vc-workspace\lip\extended-cohn-kanade-images\facemarklbp19_old\facemarklbp19\main.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\stdio.h(213): note: 参见“fopen”的声明
+  FacemarkLBP19.vcxproj -> E:\Blue\vc-workspace\Lip\extended-cohn-kanade-images\FacemarkLBP19_old\x64\Debug\FacemarkLBP19.exe
