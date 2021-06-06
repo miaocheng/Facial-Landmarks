@@ -13,7 +13,7 @@ password: 6vut
 
 2. Download the model file .yaml, and put it into the main directory. 
 
-3. Update the setting of directores in project property of Visual Studio.
+3. Update the setting of trace directores in project property of Visual Studio.
 
 
 
