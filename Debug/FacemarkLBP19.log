@@ -1,0 +1,2 @@
+﻿  main.cpp
+opencv_world346d.dll : fatal error LNK1107: invalid or corrupt file: cannot read at 0x3F0
